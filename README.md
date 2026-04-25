@@ -42,7 +42,9 @@ This is a **simple yet complete pizza ordering system** that runs in the termina
    ```bash
    git clone https://github.com/SachinKumar-IT/Pizza-Ordering-System.git
 
-# DEMO OUTPUT
+## 🖥️ Demo Output
+
+```DEMO OUTPUT
 ===== PIZZA PRICE MENU =====
 Small Pizza  : 100 Rs
 Medium Pizza : 200 Rs
