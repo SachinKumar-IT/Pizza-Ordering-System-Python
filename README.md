@@ -41,3 +41,28 @@ This is a **simple yet complete pizza ordering system** that runs in the termina
 1. Clone the repository:
    ```bash
    git clone https://github.com/SachinKumar-IT/Pizza-Ordering-System.git
+
+### DEMO OUTPUT
+===== PIZZA PRICE MENU =====
+Small Pizza  : 100 Rs
+Medium Pizza : 200 Rs
+Large Pizza  : 300 Rs
+Pepperoni    : 30 Rs (Small) / 50 Rs (Medium/Large)
+Extra Cheese : 20 Rs
+=============================
+
+--- Pizza #1 ---
+What size pizza you want (S/M/L)? M
+Medium Pizza Price is 200 Rs
+Do you want Pepperoni (Y/N)? Y
+Added Pepperoni for 50 Rs
+Do you want extra cheese (Y/N)? Y
+Added extra cheese for 20 Rs
+Price for this pizza: 270 Rs
+
+Do you want to order another pizza? (Y/N): N
+
+===== FINAL BILL =====
+Total pizzas ordered: 1
+Your total bill is: 270 Rs
+=====================
