@@ -12,15 +12,15 @@ This is a **simple yet complete pizza ordering system** that runs in the termina
 > Great for learning: loops, conditional statements, user input validation, and accumulators.
 
 ## ✨ Features
-- Displays price menu at the start
+- Displays price menu at the start.
 - Supports **Small (₹100)**, **Medium (₹200)**, **Large (₹300)**
 - Pepperoni topping:
-  - ₹30 for Small
-  - ₹50 for Medium/Large
-- Extra cheese: **₹20** (any size)
+  - ₹30 for Small.
+  - ₹50 for Medium/Large.
+- Extra cheese: **₹20** (any size).
 - Allows **multiple pizzas in one order**
-- Validates user inputs (S/M/L, Y/N)
-- Shows price per pizza and final total with pizza count
+- Validates user inputs (S/M/L, Y/N).
+- Shows price per pizza and final total with pizza count.
 
 ## 🛠️ How It Works (Logic Overview)
 1. **Menu displayed** once at the beginning.
